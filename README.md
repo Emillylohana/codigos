@@ -30,5 +30,9 @@
 
     .cta-button {
         width: 100%;
-    }
+    }<form>
+  <input type="text" id="name" placeholder="Digite seu nome">
+  <input type="email" id="email" placeholder="Digite seu e-mail">
+  <input type="submit" value="Enviar">
+</form>
 }
